@@ -2,10 +2,10 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>我的 SEO 练习网站</title>
+    <title>  SEO test </title>
 </head>
 <body>
-    <h1>欢迎来到我的 SEO 学习测试页</h1>
-    <p>这是一个用来连接 Google Search Console 的测试网站。</p>
+    <h1>test h1</h1>
+    <p>GSC test</p>
 </body>
 </html>
